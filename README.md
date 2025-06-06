@@ -12,7 +12,7 @@ Currently, I'm building a portfolio of projects that reflect real business scena
 
 Let’s connect — I’m actively seeking entry-level roles in business/data analytics where I can learn, grow, and make a measurable impact.
 
-🔗 [LinkedIn](https://www.linkedin.com/) 
+🔗 [LinkedIn](https://www.linkedin.com/in/caroline-lewis-800) 
 
 <!--
 **celewis8/celewis8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
